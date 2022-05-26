@@ -1,0 +1,12 @@
+C:\Users\dashu\Desktop\ПНЯВУ\шаблон\shablon\shablon\bin\Debug\shablon.exe.config
+C:\Users\dashu\Desktop\ПНЯВУ\шаблон\shablon\shablon\bin\Debug\shablon.exe
+C:\Users\dashu\Desktop\ПНЯВУ\шаблон\shablon\shablon\bin\Debug\shablon.pdb
+C:\Users\dashu\Desktop\ПНЯВУ\шаблон\shablon\shablon\obj\Debug\shablon.csproj.AssemblyReference.cache
+C:\Users\dashu\Desktop\ПНЯВУ\шаблон\shablon\shablon\obj\Debug\shablon.csproj.SuggestedBindingRedirects.cache
+C:\Users\dashu\Desktop\ПНЯВУ\шаблон\shablon\shablon\obj\Debug\shablon.Form1.resources
+C:\Users\dashu\Desktop\ПНЯВУ\шаблон\shablon\shablon\obj\Debug\shablon.Form2.resources
+C:\Users\dashu\Desktop\ПНЯВУ\шаблон\shablon\shablon\obj\Debug\shablon.Properties.Resources.resources
+C:\Users\dashu\Desktop\ПНЯВУ\шаблон\shablon\shablon\obj\Debug\shablon.csproj.GenerateResource.cache
+C:\Users\dashu\Desktop\ПНЯВУ\шаблон\shablon\shablon\obj\Debug\shablon.csproj.CoreCompileInputs.cache
+C:\Users\dashu\Desktop\ПНЯВУ\шаблон\shablon\shablon\obj\Debug\shablon.exe
+C:\Users\dashu\Desktop\ПНЯВУ\шаблон\shablon\shablon\obj\Debug\shablon.pdb
